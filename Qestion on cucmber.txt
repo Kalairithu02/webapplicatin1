@@ -1,0 +1,15 @@
+y we are going for cucumber
+difference b/w before and background
+scenario vs scenario outline
+skip the scenario
+10 scenario how to execute 5th scenario
+test runner syntax
+how to execute failure test cases
+cucmber options types
+is test runner is mandatory
+main class in cucumber
+how to execute specific feature file in cucumber
+TestNG or cucumber is best
+how to generate report in cucumber
+what is BDD
+BDD vs TDD
